@@ -42,18 +42,17 @@ li img {
 
 li hgroup {
   width: 16rem;
-  padding: .5rem 1rem .6rem 2rem;
+  padding: .5rem 1rem .6rem;
 }
 
 li a {
-  width: 16rem;
-  padding: .5rem 1rem .6rem 2rem;
-  margin: 0;
+  padding: .5rem 1rem .6rem;
   background-color: #444;
   color: #ccc;
+  text-decoration: none;
 }
 
 li p {
   width: 25rem;
-  padding: .5rem 1rem .6rem 2rem;
+  padding: .5rem 1rem .6rem;
 }
