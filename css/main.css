@@ -5,10 +5,13 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
-  background-color: #ccc;
-}
-body {
   font-family: "Open Sans", sans-serif;
+  background-color: #ccc;
+  box-sizing: border-box;
+  line-height: 1.5;
+}
+
+body {
   margin: 1.5rem;
 }
 
