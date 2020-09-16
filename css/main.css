@@ -16,10 +16,7 @@ body {
 }
 
 section ul {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  align-items: stretch;
+  margin: 0;
 }
 
 h2 {
@@ -28,8 +25,9 @@ h2 {
 
 li {
   display: flex;
-  flex-direction: row;
-  padding: .5rem 1rem .6rem 2rem;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 0 1.5rem;
 }
 
 li img {
