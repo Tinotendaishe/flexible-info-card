@@ -10,8 +10,8 @@ html {
   box-sizing: border-box;
   line-height: 1.5;
 }
-*,
 
+*,
 *::before,
 *::after {
   box-sizing: inherit;
@@ -48,7 +48,9 @@ li hgroup {
 li a {
   width: 16rem;
   padding: .5rem 1rem .6rem 2rem;
+  margin: 0;
   background-color: #444;
+  color: #ccc;
 }
 
 li p {
